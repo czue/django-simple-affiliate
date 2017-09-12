@@ -36,7 +36,7 @@ rest of your code.
 
 1. Install this package to your python distribution
 
-`pip install django-affiliate`
+`pip install django-simple-affiliate`
 
 2. Add `'simple_affiliate.middleware.affiliate_middleware'` to `MIDDLEWARE`:
 
